@@ -1,2 +1,2 @@
-# Dissertation-
+# Dissertation- A study of Duality and Optimality in bilevel multiobjective programming using Convexifactors 
 This dissertation studies bilevel multiobjective optimization problems through the lens of convexifactors, a generalized subdifferential tool for nonsmooth analysis. Modeled as a Stackelberg leader-follower game, the work derives optimality conditions for the upper-level (leader) and lower-level (follower) problems where the objective and constraint functions need not be differentiable or convex. The framework extends classical bilevel programming theory to a broader class of nonsmooth multiobjective problems, with applications in hierarchical decision-making settings.
